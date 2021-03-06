@@ -17,3 +17,5 @@ def selection_sort(list_a):
 
 
 print(selection_sort([7, 8, 9, 8, 3, 6, 8, 7, 9, 2]))
+
+# Complexity O(n^2)
